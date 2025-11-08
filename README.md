@@ -1,20 +1,9 @@
-# Orbin Bank - Enterprise Banking Platform (Backend)
-
-<img width="1901" height="1079" alt="Screenshot 2025-07-27 185543" src="https://github.com/user-attachments/assets/3e4f13c1-e21d-466c-98df-d7a61777adca" />
+# Enterprise Banking Platform (Backend)
 
 
-Welcome to the backend repository for Project Orbin Bank, a comprehensive, enterprise-grade digital banking platform built on the Jakarta EE 10 framework. This project demonstrates a secure, scalable, and feature-rich system for handling core banking operations, designed to be consumed by a modern frontend application.
 
-**Developed by:** R. Ashan Himantha Rathnayaka
-**GitHub Profile:** [github.com/AshanHimantha](https://github.com/AshanHimantha)
+Welcome to the backend repository for Banking, a comprehensive, enterprise-grade digital banking platform built on the Jakarta EE 10 framework. This project demonstrates a secure, scalable, and feature-rich system for handling core banking operations, designed to be consumed by a modern frontend application.
 
----
-
-### **Companion Repositories**
-*   **Backend (This Repo):** [[https://github.com/AshanHimantha/enterprise-banking-platform](https://github.com/AshanHimantha/enterprise-banking-platform)](https://github.com/AshanHimantha/enterprise-banking-platform)
-*   **Frontend (React UI):** [https://github.com/AshanHimantha/baking-webapp](https://github.com/AshanHimantha/baking-webapp)
-
----
 
 ## 🚀 Features
 
@@ -82,7 +71,7 @@ Follow these steps to set up the environment and deploy the application.
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/AshanHimantha/enterprise-banking-platform.git
+git clone https://github.com/NITsush45/enter-bank.git
 cd enterprise-banking-platform
 ```
 
