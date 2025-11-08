@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/banking-accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-billers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-billers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-documents/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-documents/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-ear/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-ear/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-interest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-interest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-kyc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-kyc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-transactions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-transactions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
